@@ -1,0 +1,47 @@
+- card = EntityCard.new entity 
+
+- fold_change = 1 if fold_change.nil?
+
+= action_parameters do
+  - input :fold_change, :select, "Standard deviations from mean threshold", fold_change, :select_options => [0,0.1,0.5,1,1.5,2]
+
+
+- rank_file = TCPA.job(:ranks, nil).run(true).path
+- activation_file = TCPA.job(:activations, nil, :fold_change => fold_change).run(true).path
+:ruby
+  script =<<-EOF
+    library(reshape)
+    ranks = rbbt.tsv('#{ rank_file }')
+    activations = rbbt.tsv('#{ activation_file }')
+    data[,] = t(scale(t(data[,])))
+    m = rbbt.tsv.melt(data, "sample")
+    ms = subset(m,variable=='#{entity}')
+    ms$rank = ranks[ms$sample,"#{entity}"]
+    ms$activation = as.character(activations["#{entity}",ms$sample])
+    mean = mean(ms$value)
+    sd = sd(ms$value)
+    #geom_point(aes(y=0.1,x=value, shape=activation, col=rank),position=position_jitter(h=0.05,w=0)) + 
+    ggplot(ms) +
+      geom_density(aes(x=value)) + 
+      geom_entity(real.geom=geom_point,aes(y=0.1,x=value, shape=activation, col=rank, entity=sample),position=position_jitter(h=0.05,w=0)) + 
+      geom_line(aes(x=value, y=rank),col='green') 
+  EOF
+
+- card.description do
+
+  - tsv = TCPA.all_samples_fixed.tsv :cast => :to_f
+  - Log.tsv tsv
+  = fragment do
+    .figure
+      .title
+        Antibody values across samples
+      .plot
+        = R::SVG.ggplotSVG tsv, script, 9, 9, :R_open => "colClasses=c('character'," + (["'numeric'"] * tsv.fields.length) * ", " + ')'
+      %p.caption
+        Density of values (black), ranks inside sample (green), and actual sample values shown as points with color specifying rank and shape
+        specifying activation status in sample
+      :deferjs
+        $('svg [data-entity]').each(function(i,o){o = $(o); o.attr('title', o.attr('data-entity') )})
+
+= entity_card_render card
+

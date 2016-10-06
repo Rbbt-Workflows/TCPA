@@ -1,0 +1,31 @@
+- res = job.load
+- res.key_field = "Sample description"
+- original = TCPA.all_samples.tsv
+= table do
+  - original
+
+= table do
+  - res
+
+- sample ||= nil
+- antibody ||= nil
+
+= action_parameters do
+  - input :antibody, :select, "Antibody code", antibody, :select_options => res.fields
+  - input :sample, :select, "Sample description", antibody, :select_options => res.keys
+
+- samples = res.keys.sort
+- if antibody and sample
+  - antibody_ranks = res.column(antibody)
+  - antibody_ranks.fields = ["Rank"]
+  - antibody_values = original.column(antibody)
+  - antibody_values.fields = ["Value"]
+  = table do
+    - antibody_values.attach antibody_ranks
+
+  :ruby
+    values = antibody_values.values_at(*samples).collect{|v| v.nil? or v == 0 ? nil : v.to_s}.compact
+    value = antibody_values[sample]
+    ranks = antibody_ranks.values_at(*samples).collect{|v| v.nil? or v == 0  ? nil : v.to_s}.compact
+    rank = antibody_ranks[sample]
+

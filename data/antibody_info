@@ -1,0 +1,285 @@
+#Official Ab Name 	Ab Name Reported on Dataset	Gene Name	Company	Catalog #	Internal Ab ID	Species	Validation Status*	RPPA Dilution
+14-3-3 beta	14-3-3-beta	YWHAB	Santa Cruz	sc-628	882	Rabbit	Valid	1:5000
+14-3-3 epsilon	14-3-3-epsilon	YWHAE	Santa Cruz	sc-23957	913	Mouse	Use with Caution	1:100
+14-3-3 zeta	14-3-3-zeta	YWHAZ	Santa Cruz	sc-1019	883	Rabbit	Valid	1:1200
+4E-BP1	4E-BP1	EIF4EBP1	CST	9452	2	Rabbit	Valid	1:100
+4E-BP1 (phospho S65)	4E-BP1_pS65	EIF4EBP1	CST	9456	3	Rabbit	Valid	1:250
+4E-BP1 (phospho T37/T46)	4E-BP1_pT37_T46	EIF4EBP1	CST	9459	6	Rabbit	Valid	1:100
+53BP1	53BP1	TP53BP1	CST	4937	985	Rabbit	Valid	1:200
+Acetyl CoA Carboxylase 1	ACC1	ACACA	Abcam	ab45174	14	Rabbit	Use with Caution	1:300
+Acetyl CoA Carboxylase (phospho S79)	ACC_pS79	ACACA, ACACB	CST	3661	13	Rabbit	Valid	1:250
+ACVRL1	ACVRL1	ACVRL1	Abcam	ab108207	1086	Rabbit	Use with Caution	1:250
+ADAR1	ADAR1	ADAR	Abcam	ab88574	1198	Mouse	Valid	1:1000
+Akt	Akt	AKT1,2,3	CST	4691	1084	Rabbit	Valid	1:1000
+Akt (phospho S473)	Akt_pS473	AKT1,2,3	CST	9271	230	Rabbit	Valid	1:250
+Akt (phospho T308)	Akt_pT308	AKT1,2,3	CST	2965	1154	Rabbit	Valid	1:250
+AMPK alpha	AMPKa	PRKAA1	CST	2532	39	Rabbit	Use with Caution	1:250
+AMPK alpha (phospho T172)	AMPKa_pT172	PRKAA1	CST	2535	40	Rabbit	Valid	1:750
+Androgen Receptor	AR	AR	Abcam	ab52615	756	Rabbit	Valid	1:100
+Annexin I	Annexin-I	ANXA1	BD Biosciences	610066	1208	Mouse	Valid	1:8000
+Annexin VII	Annexin-VII	ANXA7 	BD Biosciences	610668	1142	Mouse	Valid	1:500
+A-Raf	A-Raf	ARAF	CST	4432	1217	Rabbit	Valid	1:1000
+A-Raf (phospho S299)	A-Raf_pS299	ARAF	CST	4431	1043	Rabbit	Use with Caution	1:500
+ARHI	ARHI	DIRAS3	MDACC Laboratory	Bast Lab	1273	Mouse	Use with Caution	1:500
+ARID1A	ARID1A	ARID1A	Sigma-Aldrich	HPA005456	1442	Rabbit	Use with Caution	1:1000
+ATM	ATM	ATM	CST	2873	1363	Rabbit	Valid	1:750
+ATM (phospho S1981)	ATM_pS1981	ATM	CST	5883	1364	Rabbit	Valid	1:250
+ATP5A	ATP5A	ATP5A	Abcam	ab14748	1289	Mouse	Use with Caution	1:1000
+ATP5H	ATP5H	ATP5H	Abcam	ab110275	1252	Mouse	Use with Caution	1:750
+ATR	ATR	ATR	CST	2790	900	Rabbit	Use with Caution	1:200
+Aurora B/AIM1	Aurora-B	AIM1	CST	3094	1404	Rabbit	Valid	1:250
+Axl	Axl	AXL	CST	8661	1271	Rabbit	Valid	1:1000
+Bad (phospho S112)	Bad_pS112	BAD	CST	9291	63	Rabbit	Valid	1:100
+Bak	Bak	BAK1	Abcam	ab32371	71	Rabbit	Use with Caution	1:200
+BAP1	BAP1	BAP1	Santa Cruz	sc-28383	1207	Mouse	Valid	1:500
+Bax	Bax	BAX	CST	2772	73	Rabbit	Valid	1:250
+Bcl2	Bcl2	BCL2	Dako	M0887	80	Mouse	Valid	1:200
+Bcl2A1	Bcl2A1	BCL2A1	Abnova	PAB8528	1299	Rabbit	Valid	1:500
+Bcl-xL	Bcl-xL	BCL2L1	CST	2762	85	Rabbit	Valid	1:250
+Beclin	Beclin	BECN1	Santa Cruz	sc-10086	87	Goat	Use with Caution	1:100
+beta Actin	b-Actin	ACTB	CST	4970	1169	Rabbit	Use with Caution	1:750
+beta Catenin	b-Catenin	CTNNB1	CST	9562	75	Rabbit	Valid	1:300
+beta Catenin (phospho T41/S45)	b-Catenin_pT41_S45	CTNNB1	CST	9565	1170	Rabbit	Valid	1:500
+Bid	Bid	BID	Abcam	ab32060	88	Rabbit	Use with Caution	1:100
+Bim	Bim	BCL2L11	Abcam	ab32158	90	Rabbit	Valid	1:500
+BRD4	BRD4	BRD4	CST	13440	1567	Rabbit	Valid	1:1000
+B-Raf	B-Raf	BRAF	Abcam	ab33899	92	Rabbit	Valid	1:500
+B-Raf (phospho S445)	B-Raf_pS445	BRAF	CST	2696	94	Rabbit	Valid	1:500
+c-Abl	c-Abl	ABL	CST	2862	1565	Rabbit	Valid	1:200
+Caspase-3 active	Caspase-3	CASP3	Abcam	ab32042	108	Rabbit	Use with Caution	1:250
+Caspase-7 (cleaved D198)	Caspase-7-cleaved	CASP7	CST	9491	109	Rabbit	Use with Caution	1:150
+Caspase-8	Caspase-8	CASP8	CST	9746	951	Mouse	**Used for QC**	1:300
+Caspase-9 (cleaved Asp330)	Caspase-9-cleaved	CASP9	CST	9501	953	Rabbit	Use with Caution	1:500
+Caveolin-1	Caveolin-1	CAV1	CST	3238	114	Rabbit	Valid	1:250
+CD26	CD26	CD26	Abcam	ab28340	1308	Rabbit	Valid	1:1000
+CD29	CD29	ITGB1	BD Biosciences	610467	1206	Mouse	Valid	1:500
+CD31	CD31	PECAM1	Dako	M0823	127	Mouse	Valid	1:500
+CD44	CD44	CD44	CST	3570	1398	Mouse	Use with Caution	1:1000
+CD49b	CD49b	ITGA2	BD Biosciences	611016	937	Mouse	Valid	1:250
+CDC2 p34	CDC2-p34	CDK1	Santa Cruz	sc-54	1384	Mouse	Valid	1:750 
+CDKN2A/p16INK4a	p16INK4a	CDKN2A	Abcam	ab81278	1231	Rabbit	Valid	1:1000
+Chk1	Chk1	CHEK1	CST	2360	1203	Mouse	Use with Caution	1:1000
+Chk1 (phospho S296)	Chk1_pS296	CHEK1	Abcam	ab79758	1348	Rabbit	Valid	1:250
+Chk1 (phospho S345)	Chk1_pS345	CHEK1	CST	2348	903	Rabbit	Use with Caution	1:200
+Chk2	Chk2	CHEK2	CST	3440	146	Mouse	Valid	1:250
+Chk2 (phospho T68)	Chk2_pT68	CHEK2	CST	2197	147	Rabbit	Use with Caution	1:100
+c-Jun( phospho S73)	c-Jun_pS73	JUN	CST	9164	155	Rabbit	Valid	1:100
+c-Kit	c-Kit	KIT	Abcam	ab32363	157	Rabbit	Valid	1:1000
+Claudin 7	Claudin-7	CLDN7	Novus Biologicals	NB100-91714	852	Rabbit	Valid	1:250
+c-Met	c-Met	MET	CST	3127	726	Mouse	**Used for QC**	1:500
+c-Met (phospho Y1234/Y1235)	c-Met_pY1234_Y1235	MET	CST	3129	727	Rabbit	Valid	1:100
+c-Myc	c-Myc	MYC	Santa Cruz	sc-764	1143	Rabbit	Use with Caution	1:500
+COG3	COG3	COG3	ProteinTech	11130-1-AP	1656	Rabbit	Valid	1:750
+COL6A1	Collagen-VI	COL6A1	Santa Cruz	sc-20649	171	Rabbit	Valid	1:200
+Complex II Subunit	Complex-II-Subunit	SDHB	Invitrogen	459230	1069	Mouse	Valid	1:300
+Connexin 43	Connexin-43	CNST43	CST	3512	1568	Rabbit	Use with Caution	1:1000
+Coup-TFII	Coup-TFII	NR2F2	CST	6434	1571	Rabbit	Use with Caution	1:1000
+Cox IV	Cox-IV	COX4I1	Abcam	ab14744	1253	Mouse	Use with Caution	1:750
+Cox2	Cox2	PTGS2	CST	4842	1218	Rabbit	Use with Caution	1:500
+C-Raf/Raf-1	C-Raf	RAF1	Millipore	04-739	1201	Rabbit	Valid	1:200
+C-Raf (phospho S338)	C-Raf_pS338	RAF1	CST	9427	179	Rabbit	Valid	1:250
+CXCR4	CXCR4	CXCR4	Abcam	ab2074	1307	Rabbit	Use with Caution	1:1000
+Cyclin B1	Cyclin-B1	CCNB1	Epitomics	1495-1	192	Rabbit	Valid	1:500
+Cyclin D1	Cyclin-D1	CCND1	Santa Cruz	sc-718	194	Rabbit	Valid	1:1000
+Cyclin E1	Cyclin-E1	CCNE1	Santa Cruz	sc-247	201	Mouse	Valid	1:500
+Cyclophilin F	Cyclophilin-F	PPIF	Abcam	ab110324	1257	Mouse	Valid	1:250
+Cytokeratin 19	Cytokeratin-19	KRT19	Dako	M0888	1399	Mouse	Use with Caution	1:500
+Detyrosinated alpha-Tubulin	D-a-Tubulin	TUBA1A	Abcam	ab48389	1379	Rabbit	Valid	1:3000
+Dimethyl-Histone H3 (Lys4)	DM-Histone-H3	HISTH3	Millipore	07-030	1380	Rabbit	Valid	1:3000
+Dimethyl-K9 Histone H3	DM-K9-Histone-H3	H3K9ME2	Abcam	ab32521	1397	Rabbit	Use with Caution	1:1000
+DUSP4/MKP2	DUSP4	DUSP4	CST	5149	1406	Rabbit	Valid	1:1000
+Dvl3	Dvl3	DVL3	CST	3218	940	Rabbit	Valid	1:1000
+E2F-1	E2F1	E2F1	Santa Cruz	sc-251	1261	Mouse	Valid	1:500
+E-Cadherin	E-Cadherin	CDH1	CST	3195	1099	Rabbit	Valid	1:250
+eEF2	eEF2	EEF2	CST	2332	1060	Rabbit	Use with Caution	1:200
+eEF2K	eEF2K	EEF2K	CST	3692	1061	Rabbit	Valid	1:200
+EGFR	EGFR	EGFR	CST	2232	1120	Rabbit	Valid	1:100
+EGFR (phospho Y1068)	EGFR_pY1068	EGFR	CST	2234	217	Rabbit	Use with Caution (also sees pHer2)	1:100
+EGFR (phospho Y1173)	EGFR_pY1173	EGFR	Abcam	ab32578	221	Rabbit	Valid	1:300
+eIF4E	eIF4E	EIF4E	CST	9742	722	Rabbit	Valid	1:1000
+eIF4G	eIF4G	EIF4G1	CST	2498	1124	Rabbit	Use with Caution	1:100
+Elk1 (phospho S383)	Elk1_pS383	ELK1	CST	9181	228	Rabbit	Use with Caution	1:250
+ErbB2/HER2	HER2	ERBB2	Lab Vision	MS-325-P1	1038	Mouse	Valid	1:7500
+ErbB2/HER2 (phospho Y1248)	HER2_pY1248	ERBB2	R&D Systems	AF1768	1075	Rabbit	Use with Caution (likely sees pEGFR)	1:500
+ErbB3/HER3  	HER3	ERBB3	Santa Cruz	sc-285	911	Rabbit	Valid	1:150
+ErbB3/HER3 (phospho Y1289)	HER3_pY1289	ERBB3	CST	4791	728	Rabbit	Use with Caution	1:50
+ERCC1	ERCC1	ERCC1	Santa Cruz	sc-17809	1357	Mouse	Valid	1:250
+ERCC5	ERCC5	ERCC5	ProteinTech	11331-1-AP	1355	Rabbit	Use with Caution	1:250
+ERRFI1/MIG6	MIG6	ERRFI1	Sigma-Aldrich	WH0054206M1	1062	Mouse	Valid	1:2500
+Estrogen Receptor	ER	ESR1	Lab Vision	RM-9101-S	238	Rabbit	Valid	1:250
+Ets-1	Ets-1	ETS1	Bethyl	A303-501A	1200	Rabbit	Valid	1:750
+FAK 	FAK	PTK2	Abcam	ab40794	252	Rabbit	Use with Caution	1:500
+FAK (phospho Y397)	FAK_pY397	PTK2	CST	3283	1227	Rabbit	Valid	1:250
+Fatty Acid Synthase	FASN	FASN	CST	3180	1156	Rabbit	Valid	1:1000
+Fibronectin	Fibronectin	FN1	Epitomics	1574-1	262	Rabbit	Valid	1:5000
+FoxM1	FoxM1	FOXM1	CST	5436	1123	Rabbit	Valid	1:250
+FoxO3a	FoxO3a	FOXO3	CST	2497	1122	Rabbit	Use with Caution	1:250
+FoxO3a (phospho S318/S321)	FoxO3a_pS318_S321	FOXO3	CST	9465	270	Rabbit	Use with Caution	1:250
+FRA-1	FRA-1	FRA1	Santa Cruz	sc-605	1184	Rabbit	Use with Caution	1:250
+G6PD	G6PD	G6PD	Santa Cruz	sc-373887	1155	Mouse	Valid	1:250
+Gab2	Gab2	GAB2	CST	3239	943	Rabbit	Valid	1:200
+GAPDH	GAPDH	GAPDH	Life Technologies	AM4300	274	Mouse	Use with Caution	1:15000
+GATA3	GATA3	GATA3	BD Biosciences	558686	764	Mouse	Valid	1:500
+GCN5L2	GCN5L2	KAT2A	CST	3305	1263	Rabbit	Valid	1:200
+Glutamate Dehydrogenase1/2	Glutamate-D1-2	GLUD	CST	12793	1617	Rabbit	Use with Caution	1:750
+Glutaminase	Glutaminase	GLS	Abcam	ab156876	1491	Rabbit	Use with Caution	1:1000
+Glycogen Synthase	Gys	GYS1	CST	3886	1035	Rabbit	Valid	1:2500
+Glycogen Synthase (phospho S641)	Gys_pS641	GYS1	CST	3891	1036	Rabbit	Valid	1:300
+GPBB	GPBB	PYGB	Novus Biologicals	NBP1-32799	1248	Rabbit	Valid	1:1000
+GSK-3alpha/beta	GSK-3a-b	GSK3A, GSK3B	Santa Cruz	sc-7291	284	Mouse	Valid	1:2000
+GSK-3alpha/beta (phospho S21/S9)	GSK-3a-b_pS21_S9	GSK3A, GSK3B	CST	9331	285	Rabbit	Valid	1:250
+GSK-3beta (phospho S9)	GSK-3b_pS9	GSK3B	CST	9336	1082	Rabbit	Valid	1:500
+H2AX (phospho S139)	H2AX_pS139	H2AX	Pierce Biotechnology	LF-PA0025	1410	Rabbit	Valid	1:1000
+H2AX (phospho S140)	H2AX_pS140	H2AX	Pierce Biotechnology	MA1-2022	1409	Mouse	Use with Caution	1:2000
+Heregulin	Heregulin	NRG1	CST	2573	890	Rabbit	Valid	1:250
+Hexokinase II	Hexokinase-II	HK2	CST	2867	1023	Rabbit	Valid	1:1000
+HIAP	HIAP	BIRC2 	Millipore	07-759	930	Rabbit	Use with Caution	1:200
+Hif-1 alpha	Hif-1-alpha	HIF1A	BD Biosciences	610958	1402	Mouse	Use with Caution	1:750
+Histone H3	Histone-H3	H3F3A, H3F3B	Abcam	ab1791	1250	Rabbit	Valid	1:500
+HSP27	HSP27	HSP27	CST	2402	321	Mouse	Use with Caution	1:250
+HSP27 (phospho S82)	HSP27_pS82	HSBP1	CST	2401	323	Rabbit	Valid	1:1000
+HSP70	HSP70	HSP70	CST	4872	325	Rabbit	Use with Caution	1:250
+IGF1R (phospho Y1135/Y1136)	IGF1R_pY1135_Y1136	IGF1R	CST	3024	1221	Rabbit	Valid	1:500
+IGF-1Receptor beta	IGF1R-b	IGF1R	CST	3018	1220	Rabbit	Valid	1:500
+IGFBP2	IGFBP2	IGFBP2	CST	3922	335	Rabbit	Valid	1:100
+IGFBP5	IGFBP5	IGFBP5	Santa Cruz	sc-6006	1314	Goat	Use with Caution	1:500
+IGFRb	IGFRb	INSR	CST	3027	336	Rabbit	Use with Caution	1:500
+INPP4b	INPP4b	INPP4B	CST	4039	1065	Rabbit	Valid	1:500
+IRF-1	IRF-1	IRF1	Santa Cruz	sc-497	1316	Rabbit	Use with Caution	1:1000
+IRS1	IRS1	IRS1	Millipore	06-248	802	Rabbit	Valid	1:250
+JAB1	JAB1	COPS5	Santa Cruz	sc-13157	1394	Mouse	Use with Caution	1:500
+Jak2	Jak2	JAK2	CST	3230	1166	Rabbit	Valid	1:750
+JNK/SAPK (phospho T183/Y185)	JNK_pT183_Y185	MAPK8	CST	4668	888	Rabbit	Valid	1:250
+JNK2	JNK2	MAPK9	CST	4672	380	Rabbit	Use with Caution	1:100
+Lck	Lck	LCK	CST	2752	397	Rabbit	Valid	1:500
+LDHA	LDHA	LDHA	CST	3582	976	Rabbit	Use with Caution	1:1500
+MAPK (phospho T202/Y204)	MAPK_pT202_Y204	MAPK1, MAPK3	CST	4377	405	Rabbit	Valid	1:1200
+Mcl 1	Mcl-1	MCL1	CST	5453	1222	Rabbit	Valid	1:1000
+MDM2 (phospho S166)	MDM2_pS166	MDM2	CST	3521	1164	Rabbit	Valid	1:200
+MEK1	MEK1	MAP2K1	Epitomics	1235-1	417	Rabbit	Valid	1:15000
+MEK1 (phospho S217/S221)	MEK1_pS217_S221	MAP2K1, MAP2K2	CST	9154	1076	Rabbit	Valid	1:2000
+MEK2	MEK2	MAP2K2	CST	9125	1243	Rabbit	Valid	1:500
+Merlin/NF2	Merlin	NF2	Novus Biologicals	22710002	1046	Rabbit	Use with Caution	1:400
+MIF	MIF	MIF	Santa Cruz	sc-20121	1323	Rabbit	Use with Caution	1:1000
+Mitochondria	Mitochondria	MTCO2	Abcam	ab3298	1067	Mouse	Valid	1:300
+MMP2	MMP2	MMP2	CST	4022	435	Rabbit	Valid	1:1000
+MSH2	MSH2	MSH2	CST	2850	905	Mouse	Valid	1:250
+MSH6	MSH6	MSH6	Novus Biologicals	22030002	1063	Rabbit	Use with Caution	1:500
+mTOR	mTOR	MTOR	CST	2983	444	Rabbit	Valid	1:400
+mTOR (phospho S2448)	mTOR_pS2448	MTOR	CST	2971	446	Rabbit	Use with Caution	1:200
+Myosin heavy chain 11	Myosin-11	MYH11	Novus Biologicals	21370002	1139	Rabbit	Valid	1:1000
+Myosin Iia (phospho S1943)	Myosin-IIa_pS1943	MYH9	CST	5026	1160	Rabbit	Valid	1:1000
+NAPSIN A	NAPSIN-A	NAPSA	Abcam	ab129189	1274	Rabbit	Use with Caution	1:1000
+N-Cadherin	N-Cadherin	CDH2	CST	4061	452	Rabbit	Valid	1:100
+NDRG1 (phospho T346)	NDRG1_pT346	NDRG1	CST	3217	1126	Rabbit	Valid	1:500
+NDUFB4	NDUFB4	NDUFB4	Abcam	ab110243	1345	Mouse	Valid	1:500
+NF-kappaB p65 (phospho S536)	NF-kB-p65_pS536	RELA	CST	3033	457	Rabbit	Use with Caution	1:250
+Notch1	Notch1	NOTCH1	CST	3268	1064	Rabbit	Valid	1:100
+Notch3	Notch3	NOTCH3	Santa Cruz	sc-5593	767	Rabbit	Use with Caution	1:200
+N-Ras	N-Ras	NRAS	Santa Cruz	sc-31	1136	Mouse	Valid	1:250
+p21	p21	CDKN1A	Santa Cruz	sc-397	470	Rabbit	Valid	1:100
+p27 KIP 1	p27-Kip-1	CDKN1B	Abcam	ab32034	897	Rabbit	Valid	1:250
+p27/KIP 1 (phospho T198)	p27_pT198	CDKN1B	Abcam	ab64949 	878	Rabbit	Valid	1:250
+p27/Kip1 (phospho T157)	p27_pT157	CDKN1B	R&D Systems	AF1555	842	Rabbit	Use with Caution	1:150
+p38 alpha MAPK	p38-a	MAPK14	CST	9228	1175	Mouse	Valid	1:500
+p38 MAPK	p38	MAPK14	CST	9212	478	Rabbit	Valid	1:250
+p38 MAPK (phospho T180/Y182)	p38_pT180_Y182	MAPK14	CST	9211	479	Rabbit	Valid	1:250
+p53	p53	TP53  	CST	9282	481	Rabbit	Use with Caution	1:500
+p70 S6 Kinase (phospho T389)	p70-S6K_pT389	RPS6KB1	CST	9205	494	Rabbit	Valid	1:250
+p70/S6K1	p70-S6K1	RPS6KB1	Abcam	ab32529	493	Rabbit	Valid	1:250
+p90RSK (phospho T573)	p90RSK_pT573	RPS6K	CST	9346	1178	Rabbit	Use with Caution	1:1000
+PAI-1	PAI-1	SERPINE1	BD Biosciences	612024	499	Mouse	Valid	1:100
+PAR	PAR	PAR	Trevigen	4336-BPC-100	1370	Rabbit	Use with Caution	1:5000
+PARK7/DJ1	DJ1	PARK7	Abcam	ab76008	891	Rabbit	Valid	1:5000
+PARP (cleaved D214)	PARP-cleaved	PARP1	CST	9546	501	Mouse	**Used for QC**	1:250
+PARP-1	PARP1	PARP1	Santa Cruz	sc-7150	1372	Rabbit	Valid	1:1000
+Paxillin	Paxillin	PXN	Epitomics	1500-1	505	Rabbit	Use with Caution	1:1500
+P-Cadherin	P-Cadherin	CDH3	CST	2130	509	Rabbit	Use with Caution	1:500
+PCNA	PCNA	PCNA	Abcam	ab29	511	Mouse	Use with Caution	1:100
+Pdcd-1L1	Pdcd-1L1	CD274	Santa Cruz	sc-19090	1234	Goat	Use with Caution	1:500
+Pdcd4	Pdcd4	PDCD4	Rockland	600-401-965	816	Rabbit	Use with Caution	1:400
+PDGFR beta	PDGFR-b	PDGFRB	CST	3169	1225	Rabbit	Valid	1:250
+PDK1	PDK1	PDPK1	CST	3062	515	Rabbit	Valid	1:100
+PDK1 (phospho S241)	PDK1_pS241	PDPK1	CST	3061	516	Rabbit	Valid	1:500
+PEA-15	PEA-15	PEA15	CST	2780	1017	Rabbit	Valid	1:500
+PED/PEA-15 (phospho S116)	PEA-15_pS116	PEA15	Invitrogen	44-836G	1018	Rabbit	Valid	1:400
+PI3 Kinase p110 alpha	PI3K-p110-a	PIK3CA 	CST	4255	808	Rabbit	Use with Caution	1:200
+PI3K p110 beta	PI3K-p110-b	PIK3CB	Santa Cruz	sc-376412	1330	Mouse	Use with Caution	1:500
+PI3K p85	PI3K-p85	PIK3R1	Millipore	06-195	523	Rabbit	Valid	1:4000
+PKC alpha	PKC-a	PRKCA 	Millipore	05-154	529	Mouse	Valid	1:2000
+PKC alpha (phospho S657)	PKC-a_pS657	PRKCA 	Millipore	06-822	530	Rabbit	Use with Caution	1:3000
+PKC beta II (phospho S660)	PKC-b-II_pS660	PRKCA, PRKCB  PRKCD, PRKCE   PRKCH, PRKCQ	CST	9371	1137	Rabbit	Valid	1:75
+PKC delta (phospho S664)	PKC-delta_pS664	PRKCD	Millipore	07-875	932	Rabbit	Valid	1:500
+PLC gamma2 (phospho Y759)	PLC-gamma2_pY759	PLCG2	CST	3874	1030	Rabbit	Use with Caution	1:500
+PLK1	PLK1	PLK1	CST	4513	754	Rabbit	Use with Caution	1:250
+PMS2	PMS2	PMS2	Novus Biologicals	22510002	1246	Rabbit	Valid	1:1000
+PRAS40	PRAS40	AKT1S1	Invitrogen	AHO1031	738	Mouse	Use with Caution	1:1000
+PRAS40 (phospho T246)	PRAS40_pT246	AKT1S1	Life Technologies	441100G	739	Rabbit	Valid	1:10000
+PREX1	PREX1	PREX1	Abcam	ab102739	1204	Rabbit	Valid	1:1000
+Progesterone Repector	PR	PGR	Abcam	ab32085	549	Rabbit	Valid	1:250
+PTEN	PTEN	PTEN	CST	9552	566	Rabbit	Valid	1:500
+Puma	Puma	BBC3	CST	4976	1290	Rabbit	Use with Caution	1:250
+PYGM	PYGM	PYGM	Novus Biologicals	H00005837-M10	1245	Mouse	Use with Caution	1:300
+Rab11	Rab11	RAB11A,B	CST	3539	1083	Rabbit	Under Evaluation	1:50
+Rab25	Rab25	RAB25	CST	4314	1150	Rabbit	Valid	1:250
+Rad50	Rad50	RAD50	Millipore	05-525	987	Mouse	Valid	1:1000
+Rad51	Rad51	RAD51	CST	8875	1262	Rabbit	Valid	1:200
+Raptor	Raptor	RPTOR	CST	2280	1128	Rabbit	Valid	1:250
+Rb	Rb	RB1	CST	9309	552	Mouse	**Used for QC**	1:3000
+Rb (phospho S807/S811)	Rb_pS807_S811	RB1	CST	9308	557	Rabbit	Valid	1:250
+RBM15	RBM15	RBM15	Novus Biologicals	21390002	1138	Rabbit	Valid	1:10000
+Rheb	Rheb	RHEB	R&D Systems	MAB3426	847	Mouse	Use with Caution	1:150
+Rictor	Rictor	RICTOR	CST	2114	1129	Rabbit	Use with Caution	1:200
+Rictor (phospho T1135)	Rictor_pT1135	RICTOR	CST	3806	1130	Rabbit	Valid	1:200
+Rock-1	Rock-1	ROCK1	Santa Cruz	sc-5560	1334	Rabbit	Use with Caution	1:1000
+RPA32	RPA32	RPA32	CST	2208	1368	Rat	Use with Caution	1:500
+RSK	RSK	RPS6KA1  RPS6KA2  RPS6KA3	CST	9347	759	Rabbit	Use with Caution	1:500
+S6 (phospho S235/S236)	S6_pS235_S236	RPS6	CST	2211	600	Rabbit	Valid	1:30000
+S6 (phospho S240/S244)	S6_pS240_S244	RPS6	CST	2215	601	Rabbit	Valid	1:3000
+SCD	SCD	SCD	Santa Cruz	sc-58420	1127	Mouse	Valid	1:100
+SDHA	SDHA	SDHA	CST	11998	1339	Rabbit	Valid	1:1000
+SF2/ASF	SF2	SRSF1	Invitrogen	32-4500	1131	Mouse	Valid	1:100
+Shc (phospho Y317)	Shc_pY317	SHC1	CST	2431	1031	Rabbit	Valid	1:1000
+SHP-2 (phospho Y542)	SHP-2_pY542	PTPN11	CST	3751	1180	Rabbit	Use with Caution	1:250
+Smac/Diablo	Smac	DIABLO	CST	2954	610	Mouse	**Used for QC**	1:250
+Smad1	Smad1	SMAD1	Abcam	ab33902	922	Rabbit	Valid	1:250
+Smad3	Smad3	SMAD3	Abcam	ab40854	796	Rabbit	Valid	1:150
+Smad4	Smad4	SMAD4	Santa Cruz	sc-7966	920	Mouse	Valid	1:250
+Snail	Snail	SNAI1	CST	3895	616	Mouse	**Used for QC**	1:300
+SOD2	SOD2	SOD2	CST	13141	1328	Rabbit	Valid	1:5000
+Src	Src	SRC	Millipore	05-184	621	Mouse	Valid	1:200
+Src Family (phospho Y416)	Src_pY416	SRC, LYN, FYN  LCK, YES1, HCK	CST	2101	623	Rabbit	Use with Caution	1:250
+Src (phospho Y527)	Src_pY527	SRC, YES1, FYN  FGR 	CST	2105	626	Rabbit	Valid	1:400
+Stat3	Stat3	STAT3	CST	4904	1197	Rabbit	Use with Caution	1:3000
+Stat3 (phospho Y705)	Stat3_pY705	STAT3	CST	9131	637	Rabbit	Valid	1:500
+Stat5a	Stat5a	STAT5A	Abcam	ab32043	638	Rabbit	Valid	1:250
+Stathmin 1	Stathmin-1	STMN1	Abcam	ab52630	718	Rabbit	Valid	1:500
+Syk	Syk	SYK	Santa Cruz	sc-1240	1033	Mouse	Valid	1:250
+Tau	Tau	TAU	Millipore	05-348	646	Mouse	Use with Caution	1:150
+TAZ	TAZ	WWTR1	CST	2149	777	Rabbit	Valid	1:500
+TFAM	TFAM	TFAM	CST	7495	1333	Rabbit	Valid	1:1000
+TIGAR	TIGAR	C12ORF5	Abcam	ab137573	1107	Rabbit	Valid	1:150
+Transferrin Receptor	TFRC	TFRC	Novus Biologicals	22500002	1140	Rabbit	Valid	1:100
+Transglutaminase II	Transglutaminase	TGM2	Lab Vision	MS-224-P1	908	Mouse	Valid	1:750
+TSC1/Hamartin	TSC1	TSC1	CST	4906	1125	Rabbit	Use with Caution	1:100
+TSC2/Tuberin (phospho T1462)	Tuberin_pT1462	TSC2	CST	3617	671	Rabbit	Valid	1:500
+TTF1	TTF1	NKX2-1	Abcam	ab76013	1081	Rabbit	Valid	1:250
+Tuberin	Tuberin	TSC2	Abcam	ab32554	670	Rabbit	Valid	1:500
+Twist	TWIST	TWIST2	Santa Cruz	sc-81417	1353	Mouse	Use with Caution	1:200
+Tyro3	Tyro3	TYRO3	CST	5585	1080	Rabbit	Valid	1:500
+UBAC1	UBAC1	UBAC1	Sigma-Aldrich	HPA005651	1270	Rabbit	Valid	1:750
+UGT1A	UGT1A	UGT1A1	Santa Cruz	sc-271268	1267	Mouse	Valid	1:500
+UQCRC2	UQCRC2	UQCRC2	Abcam	ab14745	1256	Mouse	Use with Caution	1:250
+VDAC1/Porin	Porin	VDAC1	Abcam	ab14734	1254	Mouse	Valid	1:3000
+VEGF Receptor 2	VEGFR-2	KDR	CST	2479	688	Rabbit	Valid	1:700
+**VHL**	VHL	VHL	BD Biosciences	556347	693	Mouse	Under Evaluation  (Targeting EPPK1)	1:1000
+Vimentin	Vimentin	VIM	Dako	M0725	1393	Mouse	Use with Caution	1:250
+XBP1	XBP1	XBP1	Santa Cruz	sc-32136	1044	Goat	Use with Caution	1:500
+XIAP	XIAP	XIAP	CST	2042	699	Rabbit	Use with Caution	1:250
+XPA	XPA	XPA	Santa Cruz	sc-56813	1359	Mouse	Valid	1:250
+XPF	XPF	XPF	Abcam	ab3299	1354	Mouse	Use with Caution	1:250
+XRCC1	XRCC1	XRCC1	CST	2735	906	Rabbit	Use with Caution	1:200
+YAP	YAP	YAP1	Santa Cruz	sc-15407	780	Rabbit	Under Evaluation	1:750
+YAP (phospho S127)	YAP_pS127	YAP1	CST	4911	782	Rabbit	Under Evaluation	1:250
+YB1	YB1	YBX1	Novus Biologicals	17250002	700	Rabbit	Valid	1:500
+YB1 (phospho S102)	YB1_pS102	YBX1	CST	2900	835	Rabbit	Valid	1:250
