@@ -37,7 +37,7 @@ module TCPA
   end
 
   TCPA.claim TCPA.identifiers, :proc do |filename|
-    zipfile = TCPA.MDACC["data.zip"].find
+    zipfile = TCPA.MDACC["data.zip"].produce.find
     source_dir = Rbbt.tmp[".source"].find
     if not File.exists? source_dir
       FileUtils.mkdir_p source_dir
@@ -122,7 +122,7 @@ module TCPA
   end
 
   TCPA.claim TCPA.cell_lines, :proc do |directory|
-    zipfile = TCPA.MDACC["data.zip"].find
+    zipfile = TCPA.MDACC["data.zip"].produce.find
     source_dir = directory[".source"].find
     FileUtils.mkdir_p source_dir
     CMD.cmd("cd '#{source_dir}' && unzip '#{zipfile}'")
@@ -316,7 +316,7 @@ module TCPA
   #end
 end
 
-#TCPA.MDACC["data.zip"].produce if __FILE__ == $0
+TCPA.MDACC["data.zip"].produce if __FILE__ == $0
 #TCPA.cell_lines.produce if __FILE__ == $0
 #TCPA.antibodies.produce(true) if __FILE__ == $0
 #TCPA.Asmund.produce(true) if __FILE__ == $0
@@ -324,4 +324,4 @@ end
 #TCPA.identifiers.produce(true) if __FILE__ == $0
 #TCPA.all_samples.produce(true) if __FILE__ == $0
 #TCPA.extended_samples.produce(true) if __FILE__ == $0
-TCPA.all_samples_fixed.produce(true) if __FILE__ == $0
+#TCPA.all_samples_fixed.produce(true) if __FILE__ == $0

@@ -11,13 +11,11 @@ TCPA=/$PWD filter="*.rb" {
     TCPA.rb
    }
    entity=entity{
-    antibody.rb
    }
   }
  }
  share=share{
   R=R{
-   plot.R
   }
  }
  www=www{

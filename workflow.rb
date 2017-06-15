@@ -7,6 +7,7 @@ Misc.add_libdir if __FILE__ == $0
 
 require 'rbbt/sources/TCPA'
 
+TCPA_BATCHES = TCPA.cell_lines.produce.glob("*").collect{|f| File.basename(f) }
 module TCPA
   extend Workflow
 
